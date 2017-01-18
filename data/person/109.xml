@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Sara Rie Morris</name><gender>female</gender><color>0</color><currentparents>24</currentparents><event><type>Birth</type><date>1 Feb 1999</date><place>Yakima Washington, USA</place></event><parents id="24" rel="birth parents"><father>105</father><mother>81</mother><sibling id="100"/><currentchild>109</currentchild></parents></person>

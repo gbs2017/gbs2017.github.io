@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>David Joshua Morris</name><gender>male</gender><color>0</color><event><type>Birth</type><date>3 Apr 1995</date><place>Yakima Washington, USA</place></event><parents id="24" rel="birth parents"><father>105</father><mother>81</mother><sibling id="109"/><currentchild>109</currentchild></parents></person>

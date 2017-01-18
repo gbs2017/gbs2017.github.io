@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Lucy Morris</name><gender>female</gender><color>0</color><event><type>Birth</type><date>abt 1899</date><place>Washington</place></event><event><type>Reference No</type><place>16 JAN 2017 16:22:04</place></event><parents id="23" rel="birth parents"><father>104</father><mother>102</mother><sibling id="107"/><currentchild>107</currentchild></parents></person>

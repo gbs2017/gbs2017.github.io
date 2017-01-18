@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Scout Watson</name><gender>female</gender><color>0</color><currentparents>18</currentparents><event><type>Birth</type><date>2003</date><place>Overtake Hospital in Bellevue, WA USA</place></event><event><type>Reference No</type><place>28 NOV 2016 20:22:56</place></event><parents id="18" rel="birth parents"><father>78</father><mother>62</mother><sibling id="80"/><currentchild>80</currentchild></parents></person>

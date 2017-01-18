@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Ivia Belle Snyder</name><gender>female</gender><color>0</color><event><type>Birth</type><date>30 Jan 1900</date><place>Ness City Ness, Kansas, USA</place></event><event><type>Death</type><date>13 Dec 1906</date><place>Ness City Ness, Kansas, USA</place></event><parents id="10" rel="birth parents"><father>56</father><mother>70</mother><sibling id="58"/><sibling id="59"/><sibling id="51"/><sibling id="52"/><sibling id="50"/><sibling id="63"/><currentchild>58</currentchild></parents></person>

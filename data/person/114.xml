@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Gregory B Snyder</name><gender>male</gender><color>0</color><event><type>Birth</type><date>14 Sep 1953</date><place>Seattle King, Washington</place></event><event><type>Reference No</type><place>16 JAN 2017 15:21:23</place></event><family id="29"><spouse>118</spouse><event><type>Marriage</type><date>18 Aug 1983</date><place>Seattle King, Washington</place></event><event><type>Reference No (Family)</type><place>16 JAN 2017 15:20:57</place></event></family></person>

@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Deanna Lynn Hale</name><gender>female</gender><color>0</color><event><type>Birth</type><date>17 Dec 1966</date></event><family id="25"><spouse>106</spouse><child id="103"/><child id="110"/><event><type>Marriage</type><date>10 Nov 1991</date><place>Seattle Washington, USA</place></event></family><parents id="21" rel="birth parents"><father>98</father><mother>95</mother><sibling id="99"/></parents></person>

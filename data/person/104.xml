@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Fred Morris</name><gender>male</gender><color>0</color><currentspouse>23</currentspouse><event><type>Birth</type><date>abt 1869</date><place>England</place></event><event><type>Reference No</type><place>16 JAN 2017 16:20:04</place></event><family id="23"><spouse>102</spouse><child id="107"/><child id="108"/><currentchild>107</currentchild><event><type>Marriage</type><date>abt 1895</date></event><event><type>Reference No (Family)</type><place>16 JAN 2017 16:19:58</place></event></family></person>

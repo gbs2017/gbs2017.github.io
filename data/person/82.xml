@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Alice Biery</name><gender>female</gender><color>0</color><event><type>Birth</type><date>abt 1910</date><place>Washington</place></event><event><type>Reference No</type><place>16 JAN 2017 15:47:07</place></event><parents id="19" rel="birth parents"><father>83</father><mother>86</mother><sibling id="87"/><sibling id="84"/><sibling id="85"/><currentchild>87</currentchild></parents></person>

@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person><name>Stuart Kryton Morris</name><gender>male</gender><color>0</color><event><type>Birth</type><date>2 Aug 1994</date><place>Seattle Washington, USA</place></event><parents id="25" rel="birth parents"><father>106</father><mother>97</mother><sibling id="103"/></parents></person>
